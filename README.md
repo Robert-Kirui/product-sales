@@ -13,6 +13,9 @@
 ###  Overview 
 An analysis of product sales over several months to determine the products that sold the most during the period, products that were often sold together, cities that recorded the highest sales, and the optimal time of day to display advertisements. 
 
+![Overview](https://github.com/Robert-Kirui/product-sales/blob/6c93a3df47ee78c4e018a56f79ecbbb7ccf77d2c/product_sales.png)
+
+
 ###  Data Source
 The dataset was obtained from this repo: https://github.com/KeithGalli/Pandas-Data-Science-Tasks
 
